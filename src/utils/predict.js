@@ -4,7 +4,7 @@ import * as tf from '@tensorflow/tfjs';
 
 const classes = ['Gato', 'Perro'];
 
-let model;
+let model = 'ki';
 
 export async function loadModel() {
   console.log(model);
