@@ -9,4 +9,4 @@ async function loadModel() {
 
 loadModel();
 
-export { predict } from './predict.js';
+export { predict } from './utils/predict';
