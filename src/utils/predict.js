@@ -7,8 +7,9 @@ const classes = ['Gato', 'Perro'];
 let model;
 
 export async function loadModel() {
-  model = await tf.loadLayersModel('../../model/model.json');
-  console.log('Modelo cargado');
+  console.log(model);
+  // model = await tf.loadLayersModel('./model.json');
+  return model;
 }
 
 
