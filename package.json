@@ -26,5 +26,6 @@
       "type": "git",
       "url": "https://github.com/ArmestoSantiago/image-classification"
     }
-  }
+  },
+  "types": "src/classification.d.ts"
 }
