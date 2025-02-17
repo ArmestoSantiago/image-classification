@@ -1,6 +1,5 @@
 {
   "name": "sos-image-classification",
-  "private": true,
   "version": "1.0.0",
   "description": "Easy use image classification. Used for recognize dogs/cats for S.O.S. Patas Application",
   "type": "module",
