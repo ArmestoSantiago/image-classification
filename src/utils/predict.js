@@ -8,7 +8,7 @@ let model;
 
 export async function loadModel() {
   console.log(model);
-  model = await tf.loadLayersModel('./model.json');
+  model = await tf.loadLayersModel('src/utils/model.json');
   return model;
 }
 
