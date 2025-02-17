@@ -4,11 +4,11 @@ import * as tf from '@tensorflow/tfjs';
 
 const classes = ['Gato', 'Perro'];
 
-let model = 'ki';
+let model;
 
 export async function loadModel() {
   console.log(model);
-  // model = await tf.loadLayersModel('./model.json');
+  model = await tf.loadLayersModel('./model.json');
   return model;
 }
 
