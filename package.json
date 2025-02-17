@@ -20,5 +20,11 @@
   },
   "keywords": ["tensorflow", "image-classification", "machine-learning"],
   "author": "Santiago Armesto",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ArmestoSantiago/image-classification"
+    }
+  }
 }
