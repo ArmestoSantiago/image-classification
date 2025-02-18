@@ -27,5 +27,11 @@
       "url": "https://github.com/ArmestoSantiago/image-classification"
     }
   },
-  "types": "src/classification.d.ts"
+  "types": "src/classification.d.ts",
+  "files": [
+    "src/utils/predict.js",
+    "src/utils/imageProcess.js",
+    "src/model/model.json",
+    "src/model/weights.bin"
+  ]
 }
