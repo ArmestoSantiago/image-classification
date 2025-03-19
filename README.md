@@ -24,7 +24,11 @@ cd image-classification
 npm i
 ```
 ## Custom Predictions
+<<<<<<< HEAD
 While the project is designed to distinguish images of dogs and cats from other things, you can train a model (for example, using [Teachable Machine](https://teachablemachine.withgoogle.com/train)), replace the ```model``` and ```weights``` files with those of your custom model, and finally change the ```classes``` variable to match your specific needs.
+=======
+While the project is designed to distinguish images of dogs and cats from other things, you can train a model (for example, using [Teachable Machine](https://teachablemachine.withgoogle.com/train), replace the ```model``` and ```weights``` files with those of your custom model, and finally change the ```classes``` variable to match your specific needs.
+>>>>>>> 3efac81a2d1ffea5a1a3aadc8c9f2343b9f1339b
 
 ## Contributions
 If you wish to contribute to this project, follow these steps:
