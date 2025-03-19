@@ -26,3 +26,4 @@ export async function predict(imageElement) {
 
   return classes[classIndex];
 }
+
